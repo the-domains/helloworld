@@ -1,0 +1,28 @@
+name: '#helloworld'
+favicon: null
+layout_spectrum: 0.8367272287141532
+typography_spectrum: 0.48492631665430963
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.25533490045927465
+  lightness: 0.694747242378071
+  saturation: 0.921203167643398
+  rhythmicContrast: 0.06850963295437396
+purpose: []
