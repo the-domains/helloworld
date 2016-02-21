@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: Click the pencil icon in the bottom left to read more...
-datePublished: '2016-02-21T02:22:27.141Z'
-dateModified: '2016-02-21T02:22:11.447Z'
+datePublished: '2016-02-21T02:23:45.439Z'
+dateModified: '2016-02-21T02:22:35.544Z'
 title: '#HelloWorld'
 author: []
+sourcePath: _posts/2016-02-21-helloworld.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-21-helloworld.md
-published: true
 _context: 'http://schema.org'
 _type: Article
 
