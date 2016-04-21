@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[#helloworld]]></title>
         <description><![CDATA[#helloworld]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/helloworld/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Apr 2016 05:12:08 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 21 Apr 2016 05:13:41 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/helloworld/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://24.media.tumblr.com/47bdf92657e4ff76356adfbe6fa61456/tumblr_mhll5tBzif1ryvq99o1_500.gif">]]></description>
+            <link>https://thegrid.ai/helloworld/3f547572-9060-4f4b-b762-70966bf3ac69/index.html</link>
+            <guid isPermaLink="false">3f547572-9060-4f4b-b762-70966bf3ac69</guid>
+            <pubDate>Thu, 21 Apr 2016 05:13:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="http://25.media.tumblr.com/e4c381284e9ec38d2d62328d40496ebb/tumblr_mhvig4vL671ryvq99o1_400.gif">]]></description>
