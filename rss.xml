@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[#helloworld]]></title>
+        <description><![CDATA[#helloworld]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 21 Apr 2016 05:12:08 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://25.media.tumblr.com/e4c381284e9ec38d2d62328d40496ebb/tumblr_mhvig4vL671ryvq99o1_400.gif">]]></description>
+            <link>http://thecreatorsproject.vice.com/blog/batman-comics-turned-into-creepy-gif-art</link>
+            <guid isPermaLink="false">80b81eb1-c7e1-4fa5-b7ac-874e327b77c1</guid>
+            <pubDate>Thu, 21 Apr 2016 05:11:54 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
